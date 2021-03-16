@@ -4,3 +4,5 @@
 npm install
 ./gen_ca.sh
 ```
+npm run start - запуск прокси
+npm run interface - запуск интерфейса для работы с сохраненными запросами
