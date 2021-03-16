@@ -1,0 +1,17 @@
+{
+  "name": "proxy",
+  "version": "0.0.1",
+  "description": "proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "interface": "node interface.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-parser-js": "^0.5.3",
+    "mongodb": "^3.0.10",
+    "node-fetch": "^2.6.1"
+  }
+}
